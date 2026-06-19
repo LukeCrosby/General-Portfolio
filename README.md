@@ -38,7 +38,7 @@ Research project investigating power consumption characteristics of low-field MR
 - GLP/GCLP Training
 - CAD (SolidEdge)
 
-[View Certifications](https://github.com/LukeCrosby/General-Portfolio/tree/Certifications)
+[View Certifications](Certifications)
 
 ## Technical Documentation Samples
 
