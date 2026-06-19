@@ -6,6 +6,13 @@ I am a Biomedical Engineer with a Master of Engineering from Illinois Institute 
 
 This repository contains engineering projects, technical documentation samples, and professional certifications that demonstrate my technical and analytical skills.
 
+## Quick Links
+
+- [Projects](Projects)
+- [Certifications](Certifications)
+- [Documentation Samples](Documentation-Samples)
+- [Resume](Resume)
+
 ## Technical Skills
 
 ### Engineering
